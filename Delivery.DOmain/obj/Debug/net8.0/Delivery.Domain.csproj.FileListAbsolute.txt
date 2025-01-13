@@ -1,0 +1,11 @@
+C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Domain\bin\Debug\net8.0\Delivery.Domain.deps.json
+C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Domain\bin\Debug\net8.0\Delivery.Domain.dll
+C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Domain\bin\Debug\net8.0\Delivery.Domain.pdb
+C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Domain\obj\Debug\net8.0\Delivery.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Domain\obj\Debug\net8.0\Delivery.Domain.AssemblyInfoInputs.cache
+C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Domain\obj\Debug\net8.0\Delivery.Domain.AssemblyInfo.cs
+C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Domain\obj\Debug\net8.0\Delivery.Domain.csproj.CoreCompileInputs.cache
+C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Domain\obj\Debug\net8.0\Delivery.Domain.dll
+C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Domain\obj\Debug\net8.0\refint\Delivery.Domain.dll
+C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Domain\obj\Debug\net8.0\Delivery.Domain.pdb
+C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Domain\obj\Debug\net8.0\ref\Delivery.Domain.dll

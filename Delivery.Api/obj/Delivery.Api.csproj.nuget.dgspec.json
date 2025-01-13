@@ -1,0 +1,376 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\ProjetoDelivery\\Delivery\\Delivery.Api\\Delivery.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\ProjetoDelivery\\Delivery\\Delivery.Api\\Delivery.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\ProjetoDelivery\\Delivery\\Delivery.Api\\Delivery.Api.csproj",
+        "projectName": "Delivery.Api",
+        "projectPath": "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\ProjetoDelivery\\Delivery\\Delivery.Api\\Delivery.Api.csproj",
+        "packagesPath": "C:\\Users\\yuri_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\ProjetoDelivery\\Delivery\\Delivery.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yuri_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\ProjetoDelivery\\Delivery\\Delivery.Application\\Delivery.Application.csproj": {
+                "projectPath": "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\ProjetoDelivery\\Delivery\\Delivery.Application\\Delivery.Application.csproj"
+              },
+              "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\ProjetoDelivery\\Delivery\\Delivery.DataTransfer\\Delivery.DataTransfer.csproj": {
+                "projectPath": "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\ProjetoDelivery\\Delivery\\Delivery.DataTransfer\\Delivery.DataTransfer.csproj"
+              },
+              "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\ProjetoDelivery\\Delivery\\Delivery.Infrastructure\\Delivery.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\ProjetoDelivery\\Delivery\\Delivery.Infrastructure\\Delivery.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\ProjetoDelivery\\Delivery\\Delivery.Application\\Delivery.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\ProjetoDelivery\\Delivery\\Delivery.Application\\Delivery.Application.csproj",
+        "projectName": "Delivery.Application",
+        "projectPath": "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\ProjetoDelivery\\Delivery\\Delivery.Application\\Delivery.Application.csproj",
+        "packagesPath": "C:\\Users\\yuri_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\ProjetoDelivery\\Delivery\\Delivery.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yuri_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\ProjetoDelivery\\Delivery\\Delivery.DataTransfer\\Delivery.DataTransfer.csproj": {
+                "projectPath": "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\ProjetoDelivery\\Delivery\\Delivery.DataTransfer\\Delivery.DataTransfer.csproj"
+              },
+              "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\ProjetoDelivery\\Delivery\\Delivery.Domain\\Delivery.Domain.csproj": {
+                "projectPath": "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\ProjetoDelivery\\Delivery\\Delivery.Domain\\Delivery.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "NPOI": {
+              "target": "Package",
+              "version": "[2.7.2, )"
+            },
+            "System.Linq.Dynamic.Core": {
+              "target": "Package",
+              "version": "[1.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\ProjetoDelivery\\Delivery\\Delivery.DataTransfer\\Delivery.DataTransfer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\ProjetoDelivery\\Delivery\\Delivery.DataTransfer\\Delivery.DataTransfer.csproj",
+        "projectName": "Delivery.DataTransfer",
+        "projectPath": "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\ProjetoDelivery\\Delivery\\Delivery.DataTransfer\\Delivery.DataTransfer.csproj",
+        "packagesPath": "C:\\Users\\yuri_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\ProjetoDelivery\\Delivery\\Delivery.DataTransfer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yuri_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\ProjetoDelivery\\Delivery\\Delivery.Domain\\Delivery.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\ProjetoDelivery\\Delivery\\Delivery.Domain\\Delivery.Domain.csproj",
+        "projectName": "Delivery.Domain",
+        "projectPath": "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\ProjetoDelivery\\Delivery\\Delivery.Domain\\Delivery.Domain.csproj",
+        "packagesPath": "C:\\Users\\yuri_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\ProjetoDelivery\\Delivery\\Delivery.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yuri_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\ProjetoDelivery\\Delivery\\Delivery.Infrastructure\\Delivery.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\ProjetoDelivery\\Delivery\\Delivery.Infrastructure\\Delivery.Infrastructure.csproj",
+        "projectName": "Delivery.Infrastructure",
+        "projectPath": "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\ProjetoDelivery\\Delivery\\Delivery.Infrastructure\\Delivery.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\yuri_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\ProjetoDelivery\\Delivery\\Delivery.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yuri_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\ProjetoDelivery\\Delivery\\Delivery.Application\\Delivery.Application.csproj": {
+                "projectPath": "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\ProjetoDelivery\\Delivery\\Delivery.Application\\Delivery.Application.csproj"
+              },
+              "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\ProjetoDelivery\\Delivery\\Delivery.Domain\\Delivery.Domain.csproj": {
+                "projectPath": "C:\\Users\\yuri_\\OneDrive\\Área de Trabalho\\ProjetoDelivery\\Delivery\\Delivery.Domain\\Delivery.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentNHibernate": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "System.Linq.Dynamic.Core": {
+              "target": "Package",
+              "version": "[1.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

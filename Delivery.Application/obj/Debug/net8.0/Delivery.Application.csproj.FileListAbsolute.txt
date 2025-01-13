@@ -1,0 +1,17 @@
+C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Application\bin\Debug\net8.0\Delivery.Application.deps.json
+C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Application\bin\Debug\net8.0\Delivery.Application.dll
+C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Application\bin\Debug\net8.0\Delivery.Application.pdb
+C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Application\obj\Debug\net8.0\Delivery.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Application\obj\Debug\net8.0\Delivery.Application.AssemblyInfoInputs.cache
+C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Application\obj\Debug\net8.0\Delivery.Application.AssemblyInfo.cs
+C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Application\obj\Debug\net8.0\Delivery.Application.csproj.CoreCompileInputs.cache
+C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Application\obj\Debug\net8.0\Delivery.Application.dll
+C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Application\obj\Debug\net8.0\refint\Delivery.Application.dll
+C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Application\obj\Debug\net8.0\Delivery.Application.pdb
+C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Application\obj\Debug\net8.0\ref\Delivery.Application.dll
+C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Application\bin\Debug\net8.0\Delivery.Domain.dll
+C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Application\bin\Debug\net8.0\Delivery.Domain.pdb
+C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Application\obj\Debug\net8.0\Delivery.Application.csproj.AssemblyReference.cache
+C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Application\obj\Debug\net8.0\Delivery.Application.csproj.CopyComplete
+C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Application\bin\Debug\net8.0\Delivery.DataTransfer.dll
+C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Application\bin\Debug\net8.0\Delivery.DataTransfer.pdb
