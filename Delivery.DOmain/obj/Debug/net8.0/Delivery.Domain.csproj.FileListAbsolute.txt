@@ -9,3 +9,4 @@ C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Doma
 C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Domain\obj\Debug\net8.0\refint\Delivery.Domain.dll
 C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Domain\obj\Debug\net8.0\Delivery.Domain.pdb
 C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Domain\obj\Debug\net8.0\ref\Delivery.Domain.dll
+C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Domain\obj\Debug\net8.0\Delivery.Domain.sourcelink.json

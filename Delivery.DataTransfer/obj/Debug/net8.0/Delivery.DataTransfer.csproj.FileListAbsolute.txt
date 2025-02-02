@@ -9,3 +9,4 @@ C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Data
 C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.DataTransfer\obj\Debug\net8.0\refint\Delivery.DataTransfer.dll
 C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.DataTransfer\obj\Debug\net8.0\Delivery.DataTransfer.pdb
 C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.DataTransfer\obj\Debug\net8.0\ref\Delivery.DataTransfer.dll
+C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.DataTransfer\obj\Debug\net8.0\Delivery.DataTransfer.sourcelink.json

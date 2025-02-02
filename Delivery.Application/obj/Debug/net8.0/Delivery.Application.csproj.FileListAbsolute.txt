@@ -15,3 +15,4 @@ C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Appl
 C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Application\obj\Debug\net8.0\Delivery.Application.csproj.CopyComplete
 C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Application\bin\Debug\net8.0\Delivery.DataTransfer.dll
 C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Application\bin\Debug\net8.0\Delivery.DataTransfer.pdb
+C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Application\obj\Debug\net8.0\Delivery.Application.sourcelink.json

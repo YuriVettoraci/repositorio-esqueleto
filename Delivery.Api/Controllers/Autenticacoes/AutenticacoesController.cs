@@ -8,9 +8,9 @@ namespace Delivery.Api.Controllers.Autenticacoes
     [Route("auth")]
     public class AutenticacoesController : Controller
     {
-        private readonly IAutenticacaoServico autenticacaoServico;
+        private readonly IAutenticacaoAppServico autenticacaoServico;
 
-        public AutenticacoesController(IAutenticacaoServico autenticacaoServico)
+        public AutenticacoesController(IAutenticacaoAppServico autenticacaoServico)
         {
             this.autenticacaoServico = autenticacaoServico;
         }

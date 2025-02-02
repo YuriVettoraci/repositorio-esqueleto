@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Delivery.Application.Autenticacoes.Servicos.Interfaces
 {
-    public interface IAutenticacaoServico
+    public interface IAutenticacaoAppServico
     {
         AutenticacaoResponse Login(LoginRequest request);
         AutenticacaoResponse Registro(RegistroRequest request);

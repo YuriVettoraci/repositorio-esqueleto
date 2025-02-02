@@ -19,3 +19,4 @@ C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Infr
 C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Infrastructure\bin\Debug\net8.0\Delivery.DataTransfer.pdb
 C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Infrastructure\bin\Debug\net8.0\Delivery.Infrastructure.runtimeconfig.json
 C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Infrastructure\obj\Debug\net8.0\Delivery.Infrastructure.genruntimeconfig.cache
+C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Infrastructure\obj\Debug\net8.0\Delivery.Infrastructure.sourcelink.json

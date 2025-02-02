@@ -144,3 +144,4 @@ C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Api\
 C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Api\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
 C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Api\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
 C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\yuri_\OneDrive\Área de Trabalho\ProjetoDelivery\Delivery\Delivery.Api\obj\Debug\net8.0\Delivery.Api.sourcelink.json

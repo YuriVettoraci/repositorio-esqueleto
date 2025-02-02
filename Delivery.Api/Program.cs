@@ -1,38 +1,35 @@
-using Delivery.Application.Autenticacoes.Interfaces;
-using Delivery.Application.Autenticacoes.Servicos.Interfaces;
-using Delivery.Infrastructure;
-using Microsoft.EntityFrameworkCore;
+using Delivery.Api;
+using Delivery.Api.Extension;
+using Serilog;
 
-internal class Program
+public class Program
 {
+    public static IConfiguration Configuration { get; } = new ConfigurationBuilder()
+        .SetBasePath(Directory.GetCurrentDirectory())
+        .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
+        .AddJsonFile($"appsettings.{Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT") ?? "Production"}.json", optional: true)
+        .AddEnvironmentVariables()
+        .Build();
     private static void Main(string[] args)
     {
-        var builder = WebApplication.CreateBuilder(args);
+        Log.Logger = new LoggerConfiguration().ReadFrom.Configuration(Configuration).CreateLogger();
+
+        try
         {
-            builder.Services.AddControllers();
-            builder.Services.AddEndpointsApiExplorer();
-            builder.Services.AddSwaggerGen();
-            builder.Services.AddScoped<IAutenticacaoServico, AutenticacaoServico>();
+            Log.Information("Iniciando aplicação");
+
+            BuildWebApplication(args);
         }
-
-
-        var app = builder.Build();
-
-        if (app.Environment.IsDevelopment())
+        catch(Exception ex)
         {
-            app.UseSwagger();
-            app.UseSwaggerUI(c =>
-            {
-                c.SwaggerEndpoint("../swagger/v1/swagger.json", "Delivery.API");
-            });
+
         }
+    }
 
-        app.UseHttpsRedirection();
+    public static void BuildWebApplication(string[] args)
+    {
+        string porta = Configuration.GetSection("Aplicacao:Porta").Value;
 
-        app.UseAuthorization();
-
-        app.MapControllers();
-
-        app.Run();
+        WebApplication.CreateBuilder(args).UseStartup<Startup>(Configuration);
     }
 }
